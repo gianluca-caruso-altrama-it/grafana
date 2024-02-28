@@ -3,7 +3,8 @@
 
 an example of how to use loki, promtail and grafana in a docker container.
 
-![nginx](./config/nginx.png)
-![grafana](./config/grafana-datasources.png)
-![loki](./config/loki.png)
-![promtail](./config/promtail.png)
+references:
+[nginx](./config/nginx.png)
+[grafana](./config/grafana-datasources.png)
+[loki](./config/loki.png)
+[promtail](./config/promtail.png)
